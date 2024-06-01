@@ -1,5 +1,5 @@
 export const Api = {
-  baseUrl: 'https://backend-iniciante-integrar-com-frontend.onrender.com/',
+  baseUrl: 'https://backend-iniciante-integrar-com-frontend.onrender.com/personagem',
 
   personagem: {
     endpoint: function () {
